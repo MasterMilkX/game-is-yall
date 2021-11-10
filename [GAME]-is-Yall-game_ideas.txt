@@ -1,0 +1,44 @@
+Kirby Mechanics
+=================
+
+- Ice
+- Fire
+- Cutter
+- Sword
+- Laser
+- Hammer
+- High Jump
+- Parasol
+- Spark
+- Stone
+- Throw
+- Wheel
+
+
+
+Zelda Mechanics
+=================
+- Bombs
+- Candle
+- Arrow
+- Boomerang
+- Raft
+- Stepladder
+- Power Bracelet
+
+
+
+Super Mario World Mechanics
+=============================
+- Stomp
+- Long jump
+- Fire flower
+- Tanooki suit/Cape
+- Yoshi
+- Small mode
+- Shell attack
+- Super star
+- Key+Hole
+
+
+
